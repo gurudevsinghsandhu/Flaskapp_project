@@ -3,7 +3,7 @@ First setup kubernetes kubeadm cluster
 
 SetUp
 First clone the code to your machine
-git clone https://github.com/LondheShubham153/two-tier-flask-app.git
+git clone https://github.com/gurudevsinghsandhu/Flaskapp_project
 Move to k8s directory
 cd two-tier-flask-app/k8s
 Now, execute below commands one by one
